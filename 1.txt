@@ -1,0 +1,5 @@
+echo "hi how r u "
+sleep 3
+echo " i am fine "
+sleep 3
+echo "take care"
